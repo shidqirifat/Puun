@@ -300,7 +300,7 @@ main {
 
 .order .container {
     display: flex;
-    width: 720px;
+    width: 65%;
 }
 
 .order h2 {
@@ -313,7 +313,7 @@ main {
 }
 
 .contact {
-    width: 220px;
+    width: 29%;
     height: 60px;
     line-height: 60px;
     margin: auto;
@@ -339,7 +339,7 @@ main {
     width: 200px;
     text-align: center;
     margin: auto;
-    font-size: 21px;
+    font-size: 19px;
     
 }
 
