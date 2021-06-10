@@ -339,13 +339,13 @@ main {
     width: 200px;
     text-align: center;
     margin: auto;
-    font-size: 19px;   
 }
 
 .contact p a {
     text-decoration: none;
     color: white;
     font-weight: bold;
+    font-size: 19px;   
 }
 
 .contact .icon {
