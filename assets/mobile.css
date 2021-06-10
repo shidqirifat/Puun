@@ -49,13 +49,14 @@
     .content-home h1 {
         font-size: 36px;
         width: 250px;
+        width: 70%;
     }
 
     
     .content-home p {
         font-size: 14px;
         margin: 8px 0;
-        width: 200px;
+        width: 50%;
     }
 
     .container {
@@ -114,14 +115,21 @@
         margin-top: 80px;
         height: 40px;
         z-index: 99;
+        font-size: 22px;
     }
 
     .review p {
         margin: auto;
+        font-size: 12px;
     }
 
     .contact {
         margin-bottom: 50px;
+        width: 58%;
+    }
+
+    .contact a {
+        font-size: 19px;
     }
 
     .profile-card h1 {
