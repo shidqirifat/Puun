@@ -116,7 +116,7 @@ main {
 }
 
 .sub-title {
-    padding: 40px 0;
+    padding: 60px 0;
     font-size: 38px;
     font-weight: bold;
     text-align: center;
@@ -130,10 +130,14 @@ main {
     justify-content: space-between;
 }
 
+.products article {
+    width: 31%;
+}
+
 .product {
     height: 400px;
     /* margin-left: 30px; */
-    width: 31%;
+    
     padding: 24px 26px;
     /* background-color: rgba(236, 236, 234, 0.747); */
     border: 3px solid #334F39;;
@@ -308,8 +312,9 @@ main {
     color: #334F39;
     margin: auto;
     text-align: center;
-    margin: 50px;
-    padding-top: 40px;
+    margin: 30px;
+    padding-top: 80px;
+    padding-bottom: 50px;
 }
 
 .contact {
